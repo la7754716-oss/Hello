@@ -1,0 +1,71 @@
+# R history files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+.Rproj.user
+*.Rproj
+.Rproj.user/*
+
+# produced vignette files
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v1.4.0
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files
+.tmp
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary output files (but keep plots)
+*.log
+*.tmp
+
+# Data files (if generated)
+data/*.csv
+data/*.xlsx
+
+# Keep plots directory but ignore temporary files in it
+# plots/* would ignore the directory, so we'll be selective
