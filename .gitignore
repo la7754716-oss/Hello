@@ -1,0 +1,64 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Research data (if contains sensitive information)
+# Uncomment if you need to protect participant data
+# data/raw/
+# data/confidential/
+
+# Statistical analysis temporary files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# SPSS temporary files
+*.sav#
+*.spv
+
+# LaTeX temporary files (if converting to LaTeX later)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Output files (if generated)
+# output/*.pdf
+# output/*.docx
+
+# Python virtual environment (if using Python for analysis)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Node modules (if using any Node.js tools)
+node_modules/
